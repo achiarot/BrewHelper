@@ -1,0 +1,1 @@
+The .PCBDOC file is an automated export from the EASYEDA project and may not work correctly when imported into Altium.
